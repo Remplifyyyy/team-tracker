@@ -1,0 +1,5 @@
+This project is a clean-room recreation.
+
+The supplied TeamViewLSN and Carter JARs were used only to understand high-level behavior and integration goals. No Lunar Apollo protobuf code is included, and no TeamViewLSN textures/assets are copied into this source project.
+
+The new marker is drawn procedurally with DrawContext, and the networking implementation is independently written around Java's asynchronous WebSocket API and the Team Tracker Cloudflare relay protocol.

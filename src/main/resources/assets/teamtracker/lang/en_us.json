@@ -1,0 +1,11 @@
+{
+  "key.teamtracker.toggle": "Toggle Team Tracker",
+  "key.teamtracker.menu": "Open Team Tracker Menu",
+  "key.teamtracker.reveal": "Hold: Show All Names",
+  "key.teamtracker.cycle_symbol": "Next Symbol",
+  "key.teamtracker.cycle_colour": "Next Colour Mode",
+  "key.teamtracker.toggle_names": "Toggle Names",
+  "key.teamtracker.toggle_distance": "Toggle Distance",
+  "key.teamtracker.toggle_look": "Toggle Only-When-Looking",
+  "key.category.teamtracker.main": "Team Tracker"
+}
